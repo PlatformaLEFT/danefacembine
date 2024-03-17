@@ -17,7 +17,7 @@ export default async function Home() {
       <div className="my-6" />
       <Campaigns />
       <div className="my-6" />
-      <Join general={general} />
+      <Join />
       <div className="my-6" />
     </main>
   );

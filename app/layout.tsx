@@ -7,7 +7,6 @@ import { Toaster } from "sonner";
 import { Inter } from "next/font/google";
 import type { Metadata } from "next";
 import { Header, Footer } from "@/components/Shared";
-import { AuthBar } from "@/components/Auth";
 import { getInfoGeneral } from "@/utils/firebase";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -31,7 +30,6 @@ export default async function RootLayout({
     <html lang="en">
       <body className={inter.className + "relative"}>
         <Toaster position="top-center" richColors />
-        {/* <AuthBar general={general} /> */}
         <Header general={general} />
 
         {children}

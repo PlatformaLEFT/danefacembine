@@ -36,7 +36,7 @@ export default function Better() {
           alternativă. Nu e chiar atât de greu, trebuie doar să ne găsim busola,
           iar ea se află chiar lângă noi, în jurul nostru, este familia,
           anturajul, sunt cei pentru care sărim imediat în ajutor la greu și cu
-          care împărțim momentele de bucurie. Hai sa extindem toate astea la
+          care împărțim momentele de bucurie. Hai să extindem toate astea la
           nivel de comunitate, de societate, să reclădim încrederea în cel mai
           transparent mod posibil pentru a implementa aceste principii ale
           fraternității în toate aspectele societății.

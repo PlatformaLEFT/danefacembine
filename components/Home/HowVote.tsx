@@ -22,8 +22,8 @@ export default async function Analysis() {
         Ne-am pus și noi această întrebare și am decis să ne implicăm, să
         construim alternativa. Ne interesează ce lăsăm moștenire generațiilor
         viitoare, iar acum{" "}
-        <strong className="text-red">România și Europa </strong>se afl ă în
-        pericol și are nevoie de ajutorul oamenilor cinstiți, normali să le
+        <strong className="text-red">România și Europa</strong> se află în
+        pericol și au nevoie de ajutorul oamenilor cinstiți, normali să le
         apere.
         <br /> <br />
         <strong className="text-red">
@@ -33,9 +33,9 @@ export default async function Analysis() {
         și independente din societate pentru a genera o masă critică de oameni
         activi, militanți și profesioniști, care vor să se implice direct și
         indirect în consolidarea unei alternative politice reale, venite din
-        rândul oamenilor. Momentul alegerilor a venit și sindicaliștii și
-        ONG-iști independenți, alături de cetățeni și-au unit eforturile cu un
-        partid tânăr, al tinerilor, pan-european,{" "}
+        rândul oamenilor. Momentul alegerilor a venit, iar sindicaliștii și
+        ONG-iștii independenți, alături de cetățeni și-au unit eforturile cu un
+        partid tânăr, pan-european,{" "}
         <Link
           href="https://voltromania.org/"
           target="_blank"
@@ -44,10 +44,10 @@ export default async function Analysis() {
           Partidul VOLT
         </Link>
         , care să transforme în realitate participarea în alegeri a celor mai
-        implicați militanți ai ultimului deceniu atât în zona societății civile
-        cât și în cea sindicală independentă. Experiența în lupta cu sistemul
-        pentru justiție socială și echitate, pentru justiție independentă
-        reprezintă garanția morală a acestei construcții
+        implicați militanți ai ultimului deceniu, atât în zona societății
+        civile, cât și în cea sindicală independentă. Experiența în lupta cu
+        sistemul pentru justiție socială și echitate, pentru justiție
+        independentă reprezintă garanția morală a acestei construcții
         civico-sindicalo-politice.
       </h4>
 

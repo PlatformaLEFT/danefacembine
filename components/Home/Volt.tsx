@@ -21,7 +21,7 @@ export default function Volt() {
       </Link>
 
       <div className="sm:w-2/3 w-full">
-        <Link href="/manifest">
+        <Link href="/signatures">
           <h2 className="text-4xl font-black text-volt hover:text-gray-500">
             Semnezi pentru Partidul VOLT!
           </h2>
@@ -30,7 +30,7 @@ export default function Volt() {
         <h4 className="my-4 text-xl">
           Semnezi pentru societatea civilă autentică și pentru sindicaliștii
           onești, pentru tineri, pentru un viitor demn, sigur, pentru un prim
-          proiect de țară, pentru dreptul de a te implica în trebuirile
+          proiect de țară, pentru dreptul de a te implica în treburile
           comunității și ale țării, pentru o societate solidară, pentru asanarea
           morală a instituțiilor și autorităților statului.
           <br /> <br />

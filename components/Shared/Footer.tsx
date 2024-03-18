@@ -36,20 +36,20 @@ export default function Footer() {
 
         <div className="lg:m-0 py-4">
           <div className="flex items-center justify-end gap-4">
-            <Link href="https://left.org.ro/">
+            <Link href="https://voltromania.org/">
               <Image
-                src={LogoLeft}
-                alt="LogoLeft"
+                src={LogoVolt}
+                alt="LogoVolt"
                 width={100}
                 height={100}
                 className="lg:ml-auto md:w-14 w-24 object-contain h-auto"
                 priority
               />
             </Link>
-            <Link href="https://voltromania.org/">
+            <Link href="https://left.org.ro/">
               <Image
-                src={LogoVolt}
-                alt="LogoVolt"
+                src={LogoLeft}
+                alt="LogoLeft"
                 width={100}
                 height={100}
                 className="lg:ml-auto md:w-14 w-24 object-contain h-auto"

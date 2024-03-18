@@ -10,11 +10,6 @@ const navigation = [
   //   target: "",
   // },
   {
-    name: "Manifest",
-    id: "/manifest",
-    target: "",
-  },
-  {
     name: "Semnează",
     id: "/signatures",
     target: "",
@@ -22,6 +17,16 @@ const navigation = [
   {
     name: "Devino Voluntar",
     id: "https://forms.gle/pCP65LkLVfmxKhBR9",
+    target: "_blank",
+  },
+  {
+    name: "Manifest",
+    id: "/manifest",
+    target: "",
+  },
+  {
+    name: "Platforma LEFT",
+    id: "https://www.left.org.ro/about-us",
     target: "_blank",
   },
 ];

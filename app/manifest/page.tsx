@@ -17,7 +17,7 @@ export default function Manifest() {
       <h2 className="text-4xl font-black hover:text-gray-500 py-8">Manifest</h2>
 
       <div className="flex md:flex-row flex-col gap-8 relative">
-        <ol className="list-decimal font-semibold text-base pl-5 flex flex-col gap-10">
+        <ol className="list-decimal font-semibold text-base pl-5 flex flex-col gap-10 text-xl">
           <li>
             Libertate, Egalitate, Fraternitate, Toleranță
             <div className="font-normal">

@@ -13,7 +13,7 @@ export default function Join() {
           </h2>
         </Link>
 
-        <h4 className="my-4 text-base">
+        <h4 className="my-4 text-xl">
           LEFT este o platformă civico-politică ce îsi propune să coaguleze
           organizații civice și politice curate, organizații sindicale oneste,
           persoane fizice, activiști pentru a construi o alternativă puternică
@@ -40,7 +40,7 @@ export default function Join() {
         </h4>
 
         <Link href="https://forms.gle/pCP65LkLVfmxKhBR9" target="_blank">
-          <h5 className="text-lg my-4 hover:text-gray-500">
+          <h5 className="text-xl my-4 hover:text-gray-500">
             -&gt; Dacă vrei să te alături în această construcție completează
             acest formular.
           </h5>

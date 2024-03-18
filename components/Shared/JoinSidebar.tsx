@@ -64,7 +64,7 @@ export default async function JoinSidebar() {
         </h2>
       </Link>
 
-      {/* <div className="flex gap-4 justify-between">
+      <div className="flex gap-4 justify-between">
         {socials.map((social) => (
           <Link
             href={social.url}
@@ -84,7 +84,7 @@ export default async function JoinSidebar() {
             </div>
           </Link>
         ))}
-      </div> */}
+      </div>
     </>
   );
 }

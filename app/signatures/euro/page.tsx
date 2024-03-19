@@ -29,7 +29,7 @@ export default function page() {
       </h2>
       <br />
       <h2 className="sm:text-4xl text-2xl text-volt font-bold">
-        Conform legislației românească, procedura de strângere a semnăturilor
+        Conform legislatiei României, procedura de strângere a semnăturilor
         online nu este permisă. Cu toate acestea, există posibilitatea de a
         completa listele de semnături FIZIC.
       </h2>
@@ -52,7 +52,7 @@ export default function page() {
       </h2>
       <br />
       <h2 className="sm:text-4xl text-2xl text-volt font-bold">
-        ➤ După care semnăturile pot fi aduse personal la punctele de colectare
+        ➤ Mai apoi semnăturile pot fi aduse personal la punctele de colectare
         desemnate sau trimise prin Poșta Română la unele din adresele de mai
         jos:
       </h2>

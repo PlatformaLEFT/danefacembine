@@ -66,9 +66,10 @@ export default function Header({
 
         <div className="flex flex-col justify-between">
           <h1 className="lg:text-2xl text-xl text-white py-6 sm:block hidden">
-            Dacă nu ai cu cine vota, află că societatea se <br />
-            trezește și se implică. Ne-am pus și noi această întrebare <br /> și
-            am decis să ne implicăm, să construim alternativa.
+            Nu ai cu cine vota? <br />
+            Află că societatea se trezește și se implică.
+            <br /> Ne-am pus și noi această întrebare și am decis să ne
+            implicăm, să construim alternativa.
           </h1>
 
           {/* gap-2 */}

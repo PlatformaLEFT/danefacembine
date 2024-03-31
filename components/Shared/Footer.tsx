@@ -9,7 +9,7 @@ import { navigation } from "@/utils/constants"; // Import the missing module
 export default function Footer() {
   const pathname = usePathname();
   const LogoLeft = "/images/logoLeft.svg";
-  const LogoVolt = "/images/logoVolt.png";
+  const LogoDemos = "/images/demos.png";
 
   return (
     <footer className="w-full bg-red">
@@ -36,10 +36,10 @@ export default function Footer() {
 
         <div className="lg:m-0 py-4">
           <div className="flex items-center justify-end gap-4">
-            <Link href="https://voltromania.org/">
+            <Link href="https://demos.org.ro/">
               <Image
-                src={LogoVolt}
-                alt="LogoVolt"
+                src={LogoDemos}
+                alt="LogoDemos"
                 width={100}
                 height={100}
                 className="lg:ml-auto md:w-14 w-24 object-contain h-auto"
@@ -65,6 +65,7 @@ export default function Footer() {
               href="https://linktr.ee/danielcorbix"
               className="border-b-[1px] border-white"
               target="_blank"
+              rel="noopener noreferrer"
             >
               Daniel Corbix.
             </a>

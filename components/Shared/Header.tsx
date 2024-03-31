@@ -33,7 +33,7 @@ export default function Header({
     }
   }, [isMenuOpen, setIsMenuOpen]);
 
-  const Logo = "/images/logoVolt.png";
+  const Logo = "/images/logo-demos.png";
 
   return (
     <header className="w-full bg-red">
@@ -66,10 +66,10 @@ export default function Header({
 
         <div className="flex flex-col justify-between">
           <h1 className="lg:text-2xl text-xl text-white py-6 sm:block hidden">
-            Nu ai cu cine vota? <br />
-            Află că societatea se trezește și se implică.
-            <br /> Ne-am pus și noi această întrebare și am decis să ne
-            implicăm, să construim alternativa.
+            Ai cu cine vota în 2024? <br /> Dacă nu ai cu cine vota, află că
+            societatea se trezește și se implică. <br />
+            Ne-am pus și noi această întrebare
+            <br /> și am decis să ne implicăm, să construim alternativa.
           </h1>
 
           {/* gap-2 */}
@@ -118,6 +118,7 @@ export default function Header({
           ref={nav}
         >
           <button
+            title="Close menu"
             type="button"
             className="absolute top-4 left-3 inline-flex items-center justify-center rounded-md text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white z-10 animate-spin-fast"
             aria-controls="mobile-menu"

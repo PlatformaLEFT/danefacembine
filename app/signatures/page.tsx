@@ -31,7 +31,7 @@ export default function page() {
           <Link
             href="https://voltromania.org/"
             target="_blank"
-            className="text-volt font-bold"
+            className="text-demos font-bold"
           >
             Partidul VOLT
           </Link>
@@ -42,16 +42,16 @@ export default function page() {
           independentă reprezintă garanția morală a acestei construcții
           civico-sindicalo-politice.
           <br /> <br />
-          <strong className="text-volt">Semnezi pentru Partidul VOLT</strong>,
+          <strong className="text-demos">Semnezi pentru Partidul VOLT</strong>,
           semnezi pentru societatea civilă autentică și pentru sindicaliștii
           onești, pentru tineri, pentru un viitor demn, sigur, pentru un prim
           proiect de țară, pentru dreptul de a te implica în treburile
           comunității și ale țării, pentru o societate solidară, pentru asanarea
           morală a instituțiilor și autorităților statului.
           <br /> <br />
-          <strong className="text-volt">Programul nostru</strong> este direct și
-          ferm, vrem să participăm la administrarea problemelor țării împreună
-          cu cetățenii, cu comunitățile. Avem idei, soluții, dar ele nu
+          <strong className="text-demos">Programul nostru</strong> este direct
+          și ferm, vrem să participăm la administrarea problemelor țării
+          împreună cu cetățenii, cu comunitățile. Avem idei, soluții, dar ele nu
           valorează nimic fără a fi validate de oameni, de comunitate, de
           societate.
           <br /> <br />
@@ -74,10 +74,10 @@ export default function page() {
           deciziilor. Vrem să avem servicii publice de încredere. Vrem echitate
           și egalitate de șanse. Vrem multe, dar nu mai avem loc aici....
           <br /> <br />
-          <strong className="text-volt">Mai presus de toate:</strong> Vrem ca
+          <strong className="text-demos">Mai presus de toate:</strong> Vrem ca
           nimeni să nu fie lăsat în urmă!
           <br /> <br />
-          <strong className="text-2xl text-volt">
+          <strong className="text-2xl text-demos">
             Semnează pentru asta! Vino alături de noi!
           </strong>
           <br /> <br />

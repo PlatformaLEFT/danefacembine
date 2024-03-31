@@ -24,19 +24,22 @@ export default function Join() {
           pentru a depăși criza complexă actuală și a trece la o societate nouă,
           post-capitalistă preocupată să asigure oamenilor și planetei
           sustenabilitate și durabilitate astfel încât viața să merite să fie
-          trăită, cu demnitate, empatie, respect. Pentru că este posibil. <br />
+          trăită, cu demnitate, empatie, respect. Pentru că este posibil.
+          <br />
           <br /> Noi vrem să înaintăm spre un orizont pașnic, sănătos și prosper
           pentru fiecare dintre noi. Prosperitatea nu trebuie să depindă de
           trimiterea sau păstrarea în precaritate a altora, aceasta este
           dezumanizare. Sănătatea fiecăruia depinde în mare măsură de sănătatea
           celor din jur și de calitatea mediului. Iar pacea este absolută și
-          poate exista doar pentru toți sau pentru nimeni. <br /> <br />
+          poate exista doar pentru toți sau pentru nimeni.
+          <br /> <br />
           Siguranță, sănătate, educație, servicii publice robuste și gratuite,
           un mediu sănătos și un echilibru ecologic echitabil sunt necesare
-          pentru o viață trăită cu demnitate. <br /> <br /> Ne organizăm pentru
-          a construi un viitor pașnic în care toți oamenii vor avea spațiul și
-          libertatea de a se dezvolta și de a-și exprima propria individualitate
-          și opiniile în armonie cu animalele sălbatice și mediul înconjurător.
+          pentru o viață trăită cu demnitate.
+          <br /> <br /> Ne organizăm pentru a construi un viitor pașnic în care
+          toți oamenii vor avea spațiul și libertatea de a se dezvolta și de
+          a-și exprima propria individualitate și opiniile în armonie cu
+          animalele sălbatice și mediul înconjurător.
         </h4>
 
         <Link href="https://forms.gle/pCP65LkLVfmxKhBR9" target="_blank">

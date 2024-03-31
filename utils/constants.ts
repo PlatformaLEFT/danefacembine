@@ -4,29 +4,39 @@ const navigation = [
     id: "/",
     target: "",
   },
-  // {
-  //   name: "Despre noi",
-  //   id: "/about-us",
-  //   target: "",
-  // },
-  {
-    name: "Semnează",
-    id: "/signatures",
-    target: "",
-  },
-  {
-    name: "Devino Voluntar",
-    id: "https://forms.gle/pCP65LkLVfmxKhBR9",
-    target: "_blank",
-  },
   {
     name: "Manifest",
     id: "/manifest",
     target: "",
   },
   {
+    name: "Candidaturi",
+    id: "/applications",
+    target: "",
+  },
+  {
+    name: "Program local",
+    id: "/local-program",
+    target: "",
+  },
+  {
+    name: "Consilieri",
+    id: "/advisers",
+    target: "",
+  },
+  {
+    name: "Contact",
+    id: "/contact",
+    target: "",
+  },
+  // {
+  //   name: "Semnează",
+  //   id: "/signatures",
+  //   target: "",
+  // },
+  {
     name: "Platforma LEFT",
-    id: "https://www.left.org.ro/about-us",
+    id: "https://www.platformaleft.ro/",
     target: "_blank",
   },
 ];

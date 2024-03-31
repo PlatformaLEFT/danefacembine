@@ -44,25 +44,17 @@ export default async function JoinSidebar() {
         </h2>
       </Link> */}
 
-      <Link href={general?.donate} target="_blank">
-        <h2 className="font-black text-3xl hover:text-gray-500">Donează</h2>
-      </Link>
+      <h2 className="font-black text-3xl hover:text-gray-500">
+        Dorești să ne ajuți în strângerea de semnături?
+      </h2>
 
       <Link href="https://forms.gle/pCP65LkLVfmxKhBR9" target="_blank">
         <h2 className="font-black text-3xl hover:text-gray-500">
-          Devino Voluntar!
+          DEVINO VOLUNTAR Demos Buzău!
         </h2>
       </Link>
 
-      <h2 className="font-black text-2xl">
-        Ia legătura cu coordonatorii platformei LEFT
-      </h2>
-
-      <Link href="mailto:contact@danefacembine.ro" target="_blank">
-        <h2 className="font-black text-2xl hover:text-gray-500">
-          e-mail: <br /> contact@danefacembine.ro
-        </h2>
-      </Link>
+      <h2 className="font-black text-2xl">Ne facem bine? DA!</h2>
 
       <div className="flex gap-4 justify-between">
         {socials.map((social) => (

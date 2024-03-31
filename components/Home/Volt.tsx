@@ -11,7 +11,7 @@ export default function Volt() {
         className="sm:hidden block shadow-2xl"
       >
         <Image
-          src="/images/volt.jpg"
+          src="/images/demos.png"
           alt="Posts"
           className="md:w-1/2 w-full object-cover"
           width={100}
@@ -21,9 +21,10 @@ export default function Volt() {
       </Link>
 
       <div className="sm:w-2/3 w-full">
-        <Link href="/signatures">
-          <h2 className="text-4xl font-black text-volt hover:text-gray-500">
-            Semnezi pentru Partidul VOLT!
+        <Link href="/applications">
+          <h2 className="text-4xl font-black text-demos hover:text-gray-500">
+            Semnezi pentru Partidul Partidul Democrației și Solidarității -
+            Demos!
           </h2>
         </Link>
 
@@ -34,13 +35,12 @@ export default function Volt() {
           comunității și ale țării, pentru o societate solidară, pentru asanarea
           morală a instituțiilor și autorităților statului.
           <br /> <br />
-          <strong className="text-volt">Programul nostru</strong> este direct și
-          ferm, vrem să participăm la administrarea problemelor țării împreună
-          cu cetățenii, cu comunitățile. Avem idei, soluții, dar ele nu
-          valorează nimic fără a fi validate de oameni, de comunitate, de
-          societate.
+          <strong className="text-demos">Programul nostru</strong> este direct
+          și ferm, vrem să participăm la administrarea problemelor comunității
+          împreună cu oamenii. Avem idei, soluții, dar ele nu valorează nimic
+          fără a fi validate de oameni, de comunitate, de societate.
           <br /> <br />
-          <strong className="text-volt">Mai presus de toate:</strong> Vrem ca
+          <strong className="text-demos">Mai presus de toate:</strong> Vrem ca
           nimeni să nu fie lăsat în urmă!
         </h4>
       </div>
@@ -51,7 +51,7 @@ export default function Volt() {
         className="sm:flex items-center justify-center sm:w-2/5 h-fit hidden shadow-2xl"
       >
         <Image
-          src="/images/volt.jpg"
+          src="/images/demos.png"
           alt="Posts"
           width={600}
           height={600}

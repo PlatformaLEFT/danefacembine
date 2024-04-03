@@ -37,14 +37,14 @@ export default async function JoinSidebar() {
     },
   ];
   return (
-    <>
+    <div className="sticky top-10 sm:w-1/3 w-full flex flex-col gap-10 py-4 h-fit xl:mr-0 lg:mr-4 md:mr-20 sm:mr-32 mr-0">
       {/* <Link href="/">
         <h2 className="font-black text-3xl hover:text-gray-500">
           Abonează-te la newsletter
         </h2>
       </Link> */}
 
-      <h2 className="font-black text-3xl hover:text-gray-500">
+      <h2 className="font-black text-3xl">
         Dorești să ne ajuți în strângerea de semnături?
       </h2>
 
@@ -77,6 +77,6 @@ export default async function JoinSidebar() {
           </Link>
         ))}
       </div>
-    </>
+    </div>
   );
 }

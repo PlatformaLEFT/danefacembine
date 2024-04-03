@@ -51,6 +51,10 @@ body,
   color: #90004c;
 }
 
+.bg-gradient-demos {
+  background-image: linear-gradient(to right, #ed423a, 60%, #90004c);
+}
+
 ::-moz-selection {
   /* Code for Firefox */
   color: white;

@@ -17,7 +17,7 @@ export default function Manifest() {
       <h2 className="text-4xl font-black hover:text-gray-500 py-8">Manifest</h2>
 
       <div className="flex md:flex-row flex-col gap-8 relative">
-        <ol className="list-decimal font-semibolde pl-5 flex flex-col gap-10 text-xl">
+        <ol className="list-decimal font-semibolde pl-5 flex flex-col gap-10 text-xl sm:w-2/3 w-full">
           <li>
             Libertate, Egalitate, Fraternitate, Toleranță
             <div className="font-normal">
@@ -178,10 +178,7 @@ export default function Manifest() {
             </div>
           </li>
         </ol>
-
-        <div className="sticky top-10 flex flex-col gap-10 py-4 h-fit">
-          <JoinSidebar />
-        </div>
+        <JoinSidebar />
       </div>
     </main>
   );

@@ -36,8 +36,8 @@ export default function Header({
   const Logo = "/images/logo-demos.png";
 
   return (
-    <header className="w-full bg-red">
-      <div className="bg-red flex mx-auto max-w-screen-xl justify-between items-center px-3 sm:pb-6 sm:pt-2 py-2 sm:gap-8">
+    <header className="w-full bg-gradient-demos">
+      <div className="flex mx-auto max-w-screen-xl justify-between items-center px-3 sm:pb-6 sm:pt-2 py-2 sm:gap-8">
         <button
           type="button"
           className="relative inline-flex sm:hidden items-center justify-center rounded-md text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
@@ -96,9 +96,9 @@ export default function Header({
           <Image
             src={Logo}
             alt="Logo"
-            width={300}
-            height={300}
-            className="object-contain md:w-60 sm:w-36 w-12 h-auto"
+            width={400}
+            height={400}
+            className="object-contain md:w-60 sm:w-60 w-12 h-auto"
             priority
           />
         </Link>

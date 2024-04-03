@@ -50,9 +50,7 @@ export default function Join() {
         </Link>
       </div>
 
-      <div className="sm:w-1/3 w-full flex flex-col gap-10 py-4 h-fit xl:mr-0 lg:mr-4 md:mr-20 sm:mr-32 mr-0">
-        <JoinSidebar />
-      </div>
+      <JoinSidebar />
     </div>
   );
 }

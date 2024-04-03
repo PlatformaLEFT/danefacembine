@@ -19,16 +19,6 @@ const navigation = [
     id: "/local-program",
     target: "",
   },
-  {
-    name: "Consilieri",
-    id: "/advisers",
-    target: "",
-  },
-  {
-    name: "Contact",
-    id: "/contact",
-    target: "",
-  },
   // {
   //   name: "Semnează",
   //   id: "/signatures",
